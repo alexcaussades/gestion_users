@@ -1,3 +1,5 @@
+#copy AlexCaussades alecaussades <at> gmail.com
+
 import os
 import datetime
 import socket
